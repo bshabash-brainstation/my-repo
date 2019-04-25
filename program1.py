@@ -1,8 +1,8 @@
 def my_function():
-	x = 5
+	x = "hello"
 	y = 3
 	return x+y
 
 
-print("Hello world!")
+print("Data Science is not so fun :(")
 print(my_function())
